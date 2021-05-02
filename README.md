@@ -19,7 +19,16 @@
 
 ---
 
-Outline or something goes here
+In this repository you will find the following four (4) folders:
+
+- Code
+  - Contains the `Formula.py` file.
+- Ignition
+  - Contains the `HMI_Project_File.zip` and `HMI_Tags_File.json` files.
+- PLC
+  - Contains the `Ladder_Logic.RSS` and `PLC_Manual.pdf` files.
+- Tables
+  - Contains the `Table.xlsx` file.
 
 ---
 
@@ -27,7 +36,15 @@ Outline or something goes here
 
 ---
 
-Something about the deliverables goes here
+Our deliverables
+
+formula picture
+
+hmi picture
+
+table
+
+plc
 
 ---
 
@@ -35,7 +52,7 @@ Something about the deliverables goes here
 
 ---
 
-If we got anything else to talk about idk
+any links to stuff we used I guess should go here
 
 ---
 
