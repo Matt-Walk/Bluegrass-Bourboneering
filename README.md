@@ -31,7 +31,7 @@ In this repository you will find the following five (5) folders:
 - Tables
   - Contains the `Table.xlsx` file.
 - Report
-  - Contains the `Preliminary Design Report` file.
+  - Contains the `Final Design Report` file.
 
 ---
 
@@ -39,7 +39,7 @@ In this repository you will find the following five (5) folders:
 
 ---
 
-Below you can see an the user interface for the HMI that we designed:
+Below you can see an example the user interface for the HMI that we designed:
 
 <img src="https://drive.google.com/uc?id=1Ufp0NE1xe6AiPzD1Nsf4SmHjdJsPIKwD"/>
 
